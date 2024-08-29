@@ -4,4 +4,4 @@
 
 🦋 a keen learner 🌱 a tech enthusiast 💻 with a great enthusiasm for solving real-world problems
 
-🔗 [https://raoprer.github.io/m-prerana-rao/](Profile)
+🔗 [Profile](https://raoprer.github.io/m-prerana-rao/)
